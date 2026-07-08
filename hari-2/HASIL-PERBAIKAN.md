@@ -24,7 +24,7 @@ File yang diubah: `main.js`, `index.html`, `style.css`.
 
 ---
 
-## #7 (ETIKA) Stok palsu → stok NYATA
+    (ETIKA) Stok palsu → stok NYATA
 
 **Masalah:** angka "sisa" dibuat `Math.floor(Math.random()*5)+1` tiap render →
 false scarcity, bikin panik.
